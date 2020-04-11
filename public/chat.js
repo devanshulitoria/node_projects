@@ -1,4 +1,4 @@
-var socket=io.connect('http://192.168.1.117:4000');
+var socket=io.connect('https://node-chat-app-devanshu.herokuapp.com/');
 /*var msg=document.getElementById("message");
 
 var output=document.getElementById("output");
